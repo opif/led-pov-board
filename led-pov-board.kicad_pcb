@@ -300,7 +300,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 153a84fc-3111-412c-bc2b-6b1b7f73b876)
     )
-    (fp_text value "C_Small" (at 0 -2.54) (layer "F.Fab") hide
+    (fp_text value "1uF" (at 0 -2.54) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a2cea1b4-74c6-4f1d-9881-8834bc13bef8)
     )
@@ -612,7 +612,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 66bb160b-d2c5-43fb-a187-ce86603e1d9b)
     )
-    (fp_text value "R" (at 0 1.82) (layer "F.Fab") hide
+    (fp_text value "28 Ohm" (at 0 1.82) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4715c352-b89f-48b4-8433-130b17c44f77)
     )
@@ -666,7 +666,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp def5e929-0516-426f-b88c-b9bd5ac34614)
     )
-    (fp_text value "R" (at 0 1.82) (layer "F.Fab") hide
+    (fp_text value "28 Ohm" (at 0 1.82) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f45171ab-0684-4864-8396-2d8b4dc03780)
     )
@@ -778,7 +778,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 913c4ddd-2698-45ab-8fce-f0d64f0af54a)
     )
-    (fp_text value "R" (at 0 1.82) (layer "F.Fab") hide
+    (fp_text value "28 Ohm" (at 0 1.82) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 616ff278-e507-4df0-bf58-0d5905df6b0a)
     )
@@ -890,7 +890,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d3b79ba8-675c-45b5-a331-159359c6cc66)
     )
-    (fp_text value "R" (at 0 1.82) (layer "F.Fab") hide
+    (fp_text value "28 Ohm" (at 0 1.82) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp db74b06f-2af6-412d-ab3c-0999bdf869dd)
     )
@@ -944,7 +944,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f04dadc6-ab08-4926-81f9-7ea413a601be)
     )
-    (fp_text value "R" (at 0 1.82) (layer "F.Fab") hide
+    (fp_text value "28 Ohm" (at 0 1.82) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8cae6313-3c20-40f4-95c0-685f97e632c1)
     )
@@ -998,7 +998,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 361aa66e-dc75-41c5-85ea-0c54c0a717cb)
     )
-    (fp_text value "R" (at 0 1.82) (layer "F.Fab") hide
+    (fp_text value "28 Ohm" (at 0 1.82) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 39ab3579-8928-490b-adf6-087c4d044763)
     )
@@ -1122,7 +1122,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 29d822ae-af82-446f-a2c5-6944b2b704c0)
     )
-    (fp_text value "R" (at 0 1.82) (layer "F.Fab") hide
+    (fp_text value "28 Ohm" (at 0 1.82) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 572bd2b3-dd8c-4d7a-b0d7-af61451e301f)
     )
